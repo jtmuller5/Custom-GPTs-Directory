@@ -1,12 +1,23 @@
 # Table of Contents
 
-[🤖 Custom-GPTs-Directory](#directory)
-
 [🔎 Search For More](#search)
 
 [🛠️ Build Your Own](#build)
 
+[🤖 Custom-GPTs-Directory](#directory)
+
 [☕️ Support](#support)
+
+# <a name="search"></a>🔎 Search For More
+You can find public custom GPTs by searching Google using the following term:
+```
+site:chat.openai.com/g/ {search term}
+```
+
+For example, "site:chat.openai.com/g/ fitness"
+
+# <a name="build"></a>🛠️ Build Your Own
+OpenAI has made creating your own custom GPTs incredibly easy. Check out the [Introducing GPTs](https://openai.com/blog/introducing-gpts)https://openai.com/blog/introducing-gpts page for more information!
 
 # <a name="directory"></a>🤖 Custom-GPTs-Directory
 Giant directory of public Custom GPTs.
@@ -175,20 +186,30 @@ Giant directory of public Custom GPTs.
 | BA that creates user stories                  | It will take a short input from the user, ask clarifying questions, and then create a user story with acceptance criteria              | @MathewBeldon          | [Link](https://chat.openai.com/g/g-kmEXnBMZY-bob-the-ba-user-story)                                      |
 | YouTubeGPT                                    | Chat and answer questions from YouTube videos                                                                                          | @m1guelpf              | [Link](https://chat.openai.com/g/g-VgadmpesQ-youtubegpt)                                                 |
 | Poe Bot Creator                               | A GPT that can help you create a chatbot at Poe                                                                                        | @eseuz                 | [Link](https://chat.openai.com/g/g-E0BtBRrf5-poe-bot-creator)                                             |
-
-
-
-
-# <a name="search"></a>🔎 Search For More
-You can find public custom GPTs by searching Google using the following term:
-```
-site:chat.openai.com/g/ {search term}
-```
-
-For example, "site:chat.openai.com/g/ fitness"
-
-# <a name="build"></a>🛠️ Build Your Own
-OpenAI has made creating your own custom GPTs incredibly easy. Check out the [Introducing GPTs](https://openai.com/blog/introducing-gpts)https://openai.com/blog/introducing-gpts page for more information!
+| Audiophile Assistant                     | Specializes in providing expert advice on high-fidelity audio, from equipment selection to sound quality analysis                            | @HeyitsRadinn         | [Link](https://chat.openai.com/g/g-VbJvVjilC-audiophile-assistant)                                    |
+| ThreadsGPT                               | Your creative ally in crafting engaging Threads app content                                                                                 | @Quagswagon2          | [Link](https://chat.openai.com/g/g-fHRleYZLS-threadsgpt)                                              |
+| Cover Letter GPT                         | Crafts personalized cover letters tailored to your resume and job descriptions. Simply upload your CV in PDF format and the job description | @stefanzihlmann       | [Link](https://chat.openai.com/g/g-SiGt9EEFZ-cover-letter-gpt)                                        |
+| PDF/DocX Generator                       | Generate any complex documents, worksheets, charts, tables, etc., in PDF or DocX format powered by LaTeX                                    | @JasonLLu             | [Link](https://chat.openai.com/g/g-0gbxqCG1B-document-generator)                                      |
+| OCR GPT                                  | Extract text from scanned PDFs, photos, and even handwriting.                                                                                |                       | [Link](https://chat.openai.com/g/g-L29PpDmgg-ocr-gpt)                                                 |
+| Tweet X-aminer                           | Insights into Twitter's algorithm with a hint of humor.                                                                                      |                       | [Link](https://chat.openai.com/g/g-5KjRDfGZ1)                                                         |
+| Agentcy (beta)                           | Autonomous creative agency. Find product market fit, overcome plateaus, or seek new paths to growth.                                        |                       | [Link](https://chat.openai.com/g/g-B29g6v91R-agentcy-beta)                                            |
+| SurveyDone                               | AI survey generator / builder / editor - hosting by surveydone.com                                                                           |                       | [Link](https://chat.openai.com/g/g-uB7BUrjRI-survey-done)                                             |
+| Brag Buddy                               | For introverts and shy individuals who find 'self-promotion' awkward. Write high-quality self-promotional bios without feeling awkward.    | Shiva Kakkar          | [Link](https://chat.openai.com/g/g-g32c1pYwB-brag-buddy)                                              |
+| YT Shorts Expert                         | Creates scripts and images for YouTube shorts                                                                                               | S.J                   | [Link](https://chat.openai.com/g/g-wc6rx2PRi-yt-shorts-expert)                                        |
+| Professional Rewrite Assistant           | Refines text for professional standards                                                                                                     | S.J                   | [Link](https://chat.openai.com/g/g-ZryriIvWZ-professional-rewrite-assistant)                          |
+| YoutubeSummary                           | Chat with any YouTube video. Provides timestamped links to the video for citations.                                                         | Jiaxin Liu            | [Link](https://chat.openai.com/g/g-mVgGziF2g-youtubesummary)                                          |
+| Animation Creation                       | Create animated scenes and characters that resemble a 3D animated movie. A MindRenders.com creation.                                        |                       | [Link](https://chat.openai.com/g/g-mMk82EkTz-animation-creation)                                      |
+| Inspirer                                 | A bot that writes inspirational speeches                                                                                                    |                       | [Link](https://chat.openai.com/g/g-vhXkUJiE4-inspirer)                                                |
+| Quill                                    | Write blogs like a human                                                                                                                    |                       | [Link](https://chat.openai.com/g/g-FqN5gHFkP-quill)                                                   |
+| Rewrite                                  | Offers fresh suggestions for your writing                                                                                                   |                       | [Link](https://chat.openai.com/g/g-ICtJkldZu-rewrite)                                                 |
+| Swiftify                                 | AI Taylor Swift Songwriting Companion                                                                                                       |                       | [Link](https://chat.openai.com/g/g-6TtZAfPrw-swiftify)                                                |
+| Showtimes                                | Transcribes and summarizes audio content.                                                                                                   |                       | [Link](https://chat.openai.com/g/g-gNH4K4Egg-shownotes)                                               |
+| TweetX Enhancer                          | Enhances tweets for better engagement.                                                                                                      |                       | [Link](https://chat.openai.com/g/g-tMp039mDw-tweetx-enhancer)                                         |
+| Writing Assistant                        | A writing assistant with extensive experience in various forms of English writing such as blog writing, essay writing, and more            | Junmun Liu            | [Link](https://chat.openai.com/g/g-DpGlZrobT-writing-assistant)                                       |
+| Trey Ratcliff's Fun & Critical Photo Critique GPT | Over 5,000 blog posts and books have been fed into this AI to give you a fun critique of your photo. Enjoy!        | Raymond Ratcliff      | [Link](https://chat.openai.com/g/g-gWki9zYNV)                                                         |
+| Xiaohongshu Writing Expert               | Focus on Xiaohongshu note writing, with it you can also be an expert in Xiaohongshu’s popular writing!                                      |                       | [Link](https://chat.openai.com/g/g-iWeTcmxdr-xiao-hong-shu-xie-zuo-zhuan-jia)                         |
+| Post Generator                           | Writes your LinkedIn Posts                                                                                                                  | Johan van der Boog    | [Link](https://chat.openai.com/g/g-XO5wmv9uA-post-generator)                                          |
+| Sabber Style                             | Crafting tweets in Sabber's style, exclusively in Persian                                                                                   | Sabber                | [Link](https://chat.openai.com/g/g-YHTDi9QR6-sabber-style)                                             |
 
 # <a name="support"></a>☕️ Support
 <a href="https://www.buymeacoffee.com/mullr" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
