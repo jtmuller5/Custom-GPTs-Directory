@@ -1,5 +1,7 @@
 # Table of Contents
 
+🙂 Featured GPT
+
 [🔎 Search For More](#search)
 
 [🛠️ Build Your Own](#build)
@@ -7,6 +9,9 @@
 [🤖 Custom-GPTs-Directory](#directory)
 
 [☕️ Support](#support)
+
+# 🙂 Featured GPT
+Share your feel-good stories on [Chitter](https://chat.openai.com/g/g-pdo7Y0UoG-chitter).
 
 # <a name="search"></a>🔎 Search For More
 You can find public custom GPTs by searching Google using the following term:
