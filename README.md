@@ -1,5 +1,5 @@
 # Custom-GPTs-Directory
-Giant directory of public Custom GPTs with links and categories
+Giant directory of public Custom GPTs with links
 
 | GPT Name                | Description                                                         | Author | Link |
 |-------------------------|---------------------------------------------------------------------|--------|------|
