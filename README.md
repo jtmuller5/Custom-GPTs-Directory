@@ -1,4 +1,14 @@
-# 🤖 Custom-GPTs-Directory
+# Table of Contents
+
+[🤖 Custom-GPTs-Directory](#directory)
+
+[🔎 Search For More](#search)
+
+[🛠️ Build Your Own](#build)
+
+[☕️ Support](#support)
+
+# <a name="directory"></a>🤖 Custom-GPTs-Directory
 Giant directory of public Custom GPTs.
 
 | GPT Name                | Description                                                         | Author | Link |
@@ -122,10 +132,31 @@ Giant directory of public Custom GPTs.
 | Pitch GPT                           | Pitch GPT helps craft customized business pitches, integrating web research, visual creation, and coding insights for diverse business needs.             | David Robertson         | [Link](https://chat.openai.com/g/g-qcH5H9Aza-pitch-gpt)                            |
 | Prototyper                          | I casually craft and host web prototypes, explaining code on request                                                                                     | Florian S               | [Link](https://chat.openai.com/g/g-UiLPuZ5ZZ-prototyper)                           |
 | BounceBan                           | Free & Unlimited email verifications within ChatGPT powered by BounceBan.com.                                                                             |                         | [Link](https://chat.openai.com/g/g-q5uXtrvkH-bounceban-com-free-email-verification) |
+| Personal Brand Coach                  | LinkedIn personal branding expert offering tailored advice to build your brand                                                       | Liam Darmody        | [Link](https://chat.openai.com/g/g-jFWONpxvR-personal-brand-bot)                        |
+| Kraftful                              | Your product coach. Ask about best practices                                                                                        | Yana Welinder       | [Link](https://chat.openai.com/g/g-xTTbsqUyB-kraftful)                                 |
+| The UX Sage                           | Your go-to mentor for UX wisdom and growth                                                                                          | Sahil Pandita       | [Link](https://chat.openai.com/g/g-242OjQh2w-the-ux-sage)                              |
+| Interview Coach                       | Interview coach provides practice interview and mock interview feedback                                                             | Danny Graziosi      | [Link](https://chat.openai.com/g/g-Br0UFtDCR-interview-coach)                          |
+| The LearningSEO.io SEO Teacher        | Friendly SEO expert teacher who will help you to learn SEO using reliable learningseo.io resources                                  | Aleyda Solis        | [Link]()                                                                                |
+| Alex Hormozi GPT                      | The only business coach you will ever need: Craft 100M Dollar Offers & Kickstart Your Business with 100M Dollar Lead Advice         | Yannick van Draanen | [Link](https://chat.openai.com/g/g-L6MVCKIsU-)                                          |
+| Design Sprint Coach (beta)            | A helpful coach for guiding teams through Design Sprints with a touch of sass                                                       | Rocío Holzer López  | [Link](https://chat.openai.com/g/g-DgumXCL7r-design-sprint-coach-beta)                  |
+| MartinsGPT - Corporate Policy Reviewer| You upload your corporate policy, I will review it                                                                                  | Martin Smit         | [Link](https://chat.openai.com/g/g-aaIJ9hRih-martin-s-corporate-policy-reviewer)        |
+| MartinsGPT - Compensation Advisor     | Compensation Advisor for HR and managers                                                                                            | Martin Smit         | [Link](https://chat.openai.com/g/g-E5VFaKBNt-martinsgpt-compensation-advisor-v0-1)      |
+| MartinsGPT - Safety Inspector         | Upload a photo of your workplace, and I will look for unsafe situations                                                             | Martin Smit         | [Link](https://chat.openai.com/g/g-EhwyRwaGG-martinsgpt-safety-inspector)               |
+| MartinsGPT - How could AI impact your job?| You name the job. I advise how AI could impact it                                                     | Martin Smit         | [Link](https://chat.openai.com/g/g-z5KV0bXBP-martinsgpt-how-could-ai-impact-your-job)   |
+| Levels.fyi GPT                        | Data-driven negotiator and career guide                                                                                             | Zaheer Mohiuddin    | [Link](https://chat.openai.com/g/g-yUh3EEQan-levels-fyi-gpt)                           |
+| Cyber Security Career Mentor          | Your guide to starting and advancing in cybersecurity careers, offering beginner-friendly, practical advice.                        | Nathan House        | [Link](https://chat.openai.com/g/g-b69I3zwKd-cyber-security-career-mentor)              |
+| Creative Writing Coach               | I'm eager to read your work and give you feedback to improve your skills                                                            |                     | [Link](https://chat.openai.com/g/g-lN1gKFnvL-creative-writing-coach)                   |
+| Alpha: Agent Finder (By Staf.ai)     | Find Your Dream Agent                                                                                                               | Staf.ai             | [Link](https://chat.openai.com/g/g-K770puBb6-agent-finder-by-staf-ai-and-agentops-ai)   |
+| PM Resume Reviewer                   | Enhanced PM resume feedback with industry insights                                                                                  | Baran Atmanoglu     | [Link](https://chat.openai.com/g/g-eZEuTRpBr-pm-resume-reviewer)                        |
+| Remote Job Finder                    | I help you find relevant remote jobs quickly. I read job descriptions to match your query thereby saving your time.                 | Nithur              | [Link](https://chat.openai.com/g/g-qd7DavBQS-remote-job-finder)                         |
+| Tech Guru GPT                        | Mock interviews with real-time feedback.                                                                                            | Eidher Escalona     | [Link](https://chat.openai.com/g/g-EGHIlyWQB-tech-guru-gpt)                            |
+| Career Counselor                     | Empathetic career counselor offering guidance and market insights                                                                   |                     | [Link](https://chat.openai.com/g/g-yD0ZMqZLT-career-counselor)                          |
+| Job Assistant GPT                    | Assists with job applications, specializing in cover letters and LaTeX CV refinement.                                               |                     | [Link](https://chat.openai.com/g/g-yGdxivD2B-job-assistant-gpt)                         |
+| Decision Coach                       | I am your guide to better decisions                                                                                                 | Treasurex Melchior  | [Link](https://chat.openai.com/g/g-OoyU2wEBO-decision-coach)                            |
 
 
 
-# Search For More
+# <a name="search"></a>🔎 Search For More
 You can find public custom GPTs by searching Google using the following term:
 ```
 site:chat.openai.com/g/ {search term}
@@ -133,5 +164,8 @@ site:chat.openai.com/g/ {search term}
 
 For example, "site:chat.openai.com/g/ fitness"
 
-# Build Your Own
+# <a name="build"></a>🛠️ Build Your Own
 OpenAI has made creating your own custom GPTs incredibly easy. Check out the [Introducing GPTs](https://openai.com/blog/introducing-gpts)https://openai.com/blog/introducing-gpts page for more information!
+
+# <a name="support"></a>☕️ Support
+<a href="https://www.buymeacoffee.com/mullr" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
