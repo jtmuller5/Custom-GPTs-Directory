@@ -17,7 +17,7 @@ site:chat.openai.com/g/ {search term}
 For example, "[site:chat.openai.com/g/ fitness](https://www.google.com/search?q=site%3Achat.openai.com%2Fg%2F+fitness)"
 
 # <a name="build"></a>🛠️ Build Your Own
-OpenAI has made creating your own custom GPTs incredibly easy. Check out the [Introducing GPTs](https://openai.com/blog/introducing-gpts)https://openai.com/blog/introducing-gpts page for more information!
+OpenAI has made creating your own custom GPTs incredibly easy. Check out the [Introducing GPTs](https://openai.com/blog/introducing-gpts) page for more information!
 
 # <a name="directory"></a>🤖 Custom-GPTs-Directory
 Giant directory of public Custom GPTs.
