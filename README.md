@@ -1,5 +1,5 @@
-# Custom-GPTs-Directory
-Giant directory of public Custom GPTs with links
+# 🤖 Custom-GPTs-Directory
+Giant directory of public Custom GPTs.
 
 | GPT Name                | Description                                                         | Author | Link |
 |-------------------------|---------------------------------------------------------------------|--------|------|
@@ -48,4 +48,36 @@ Giant directory of public Custom GPTs with links
 | Market Researcher GPT   | Get ahead of your competitors by leveraging market shifts          |        |  https://chat.openai.com/g/g-rtC0DxnWT-market-researcher-gpt    |
 | Agency Owners GPT       | Find the right problems worth solving                              |        |   https://chat.openai.com/g/g-hdxS6cpxE-agency-owners-gpt   |
 | Product Name Generator GPT | Generate awesome product name ideas to choose from               |        |    https://chat.openai.com/g/g-Ytbt4MeSO-product-name-generator-gpt  |
+| Impress Me GPT             | Showing off the abilities of ChatGPT until you’re impressed!                                     | MindBranches              | [Link](https://chat.openai.com/g/g-zjMvl4pFx-impress-me-gpt) |
+| New GPT-5                  | A superior AI with advanced reasoning and confidentiality                                       | Danik Tka                 | [Link](https://chat.openai.com/g/g-jCYeXl5xh-new-gpt-5)     |
+| AEC AI GPT                 | AEC specialist offering AI tool advice with visuals                                              | Stjepan Mikulić           | [Link](https://chat.openai.com/g/g-KraRiLoIA-aec-ai-gpt)    |
+| GPTs Imaginarium           | Assists developers in imagining new GPTs                                                         | Peter Gostev              | [Link](https://chat.openai.com/g/g-1di7yQSVF-gpts-imaginarium) |
+| FixGPT                     | For unified ChatGPT that doesn't know web browsing or drawing                                    | Alex Volkov               | [Link](https://chat.openai.com/g/g-1Ln9S5qrE-fixgpt)        |
+| API Docs                   | OpenAI API, Documentation and CookBook                                                           | Cocosgt                   | [Link](https://chat.openai.com/g/g-I1XNbsyDK)               |
+| LLM Research Storm         | A model super good at helping large language research brainstorming                              | Yao Fu                    | [Link](https://chat.openai.com/g/g-Hi3tWf5Ry-llm-research-storm) |
+| EmbeddedGPT                | Checks through Embedded System Datasheet and Suggest Source Codes                                | @u_know_whoab1r           | [Link](https://chat.openai.com/g/g-M5UY1ByFj-embeddedgpt)   |
+| GPT Creator Workshop       | Leads users in crafting their own GPT models                                                     | Laura Mingail             | [Link](https://chat.openai.com/g/g-Oud17ZKtE-gpt-creator-workshop) |
+| GPT Architect (Advanced Model) | Turn simple prompts into powerful GPTs                                                          | @marcusrbrown             | [Link](https://chat.openai.com/g/g-7uYB9WE9l-gpt-architect-advanced-model) |
+| FastGPT                    | Faster than any other GPT. Just like ChatGPT but without the waffle                              | @dave1010                 | [Link](https://chat.openai.com/g/g-VnlKc5BQK-fastgpt)       |
+| ChatGPT Classic            | The latest version of GPT-4 with no additional capabilities                                      |                           | [Link](https://chat.openai.com/g/g-YyyyMT9XH-chatgpt-classic) |
+| Prompty                    | A professional prompt engineer who helps optimize your GPT-prompts                               |                           | [Link](https://chat.openai.com/g/g-aZLV4vji6-prompty)        |
+| GPT-Searcher               | Finds the perfect GPT for your needs and guides you there                                        |                           | [Link](https://chat.openai.com/g/g-N3lcOTajR-gpt-searcher)   |
+| Prompt Crafter             | Assists in creating well-defined prompts effortlessly                                            |                           | [Link](https://chat.openai.com/g/g-0olkkYtUo-prompt-crafter) |
+| Prompt Perfector           | AI Expert in Refining and Perfecting Prompts                                                     |                           | [Link](https://chat.openai.com/g/g-jeCEGsoNZ-prompt-perfector) |
+| PromptGPT                  | AI assistant for refining user prompts to maximize GPT-4 interaction                             |                           | [Link](https://chat.openai.com/g/g-p0jlP3Tcq-promptgpt)      |
+| GPT Enhancer               | AI assistant for refining GPT instructions with a focus on user experience and continuous learning |                           | [Link](https://chat.openai.com/g/g-fQ6GAANfi-gpt-enhancer)   |
+| Learn AI in Fun Way        | A humorous ML trainer who teaches with jokes and quizzes                                         |                           | [Link](https://chat.openai.com/g/g-VbMY5EfGL-learn-ai-in-fun-way) |
+| Daily AI Research Digest   | Finds and summarizes the latest AI papers in your field                                          |                           | [Link](https://chat.openai.com/g/g-Z4yeZHkyy-daily-ai-research-digest) |
+| FlexChat.ai Guide          | A FlexChat.ai Tutor                                                                              |                           | [Link](https://chat.openai.com/g/g-UMvFKMQxt-flexchat-ai-guide) |
+| GPT Selector               | Helps you find the right GPT                                                                     |                           | [Link](https://chat.openai.com/g/g-KxGmdTS9t-gpt-selector)   |
+| Better GPT Builder         | Better than GPT Builder                                                                          | S.J                       | [Link](https://chat.openai.com/g/g-w8wjRexpv-better-gpt-builder) |
+| ResourceFinder GPT         | Assists in identifying and utilizing free APIs and databases effectively                        | S.J                       | [Link](https://chat.openai.com/g/g-8aHtP3r6X-resourcefinder-gpt) |
+| PromptPlz                  | Your personal prompt engineer                                                                    | S.J                       | [Link](https://chat.openai.com/g/g-LicZucHuu-promptplz)      |
+| Puron chan the Prompt Engineer | Puron chan, a professional prompt engineer, helps craft effective prompts desu!             | S.J                       | [Link](https://chat.openai.com/g/g-eYyc3l6iB-puron-chan-the-prompt-engineer) |
+| GPT Architect              | This GPT helps you build new GPTs                                                                | David Ondrej              | [Link](https://chat.openai.com/g/g-476KmATpZ-gpt-architect)  |
+| GPT Agent Searcher         | There's a GPT for that                                                                           | Guillaume Dumortier       | [Link](https://chat.openai.com/g/g-E5HOxDjBS-gpt-agent-searcher) |
 
+
+
+# Build Your Own
+OpenAI has made creating your own custom GPTs incredibly easy. Check out the [Introducing GPTs](https://openai.com/blog/introducing-gpts)https://openai.com/blog/introducing-gpts page for more information!
