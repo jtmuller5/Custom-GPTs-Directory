@@ -657,7 +657,7 @@ Giant directory of public Custom GPTs.
 | Professional Summariser      | Summarises texts quickly and efficiently                                                                               |                          | [Link](https://chat.openai.com/g/g-Bgp6qQQ3X-professional-summariser)                                              |
 | Summary Sage with tags       | Expert in summarizing and categorizing                                                                                 |                          | [Link](https://chat.openai.com/g/g-UV2FOzD60-summary-sage-with-tags)                                               |
 | URL Shortner                 | Shortens long URLs to more manageable links                                                                            |                          | [Link](https://chat.openai.com/g/g-FmVxPJH0E-url-shortner)                                                         |
-
+| Wrestling Hero Style Guide | A free ChatGPT stylist for wrestling-inspired outfits. Tell it your style direction and it builds a complete look from the BillingtonPix range. | BillingtonPix | [Link](https://chatgpt.com/g/g-6908e442b9b48191baebe321359ad8ef-wrestling-hero-style-guide) |
 
 
 
