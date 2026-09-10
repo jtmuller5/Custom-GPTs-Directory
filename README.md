@@ -29,6 +29,7 @@ Giant directory of public Custom GPTs.
 
 | GPT Name                | Description                                                         | Author | Link |
 |-------------------------|---------------------------------------------------------------------|--------|------|
+| CharitySense Donor Research Assistant | Finds, compares, and explains charities using CharitySense nonprofit data, IRS Form 990 extraction, and donor research workflows | CharitySense | [Link](https://chatgpt.com/g/g-6a197ea908a88191816369ed81f721b0-charitysense-donor-research-assistant) |
 | Command GPT             | Generates ready-to-use commands for GPT building                    |        |  https://chat.openai.com/g/g-1NeY5l8hW-command-gpt    |
 | Recreate Images GPT     | Upload any image and DALL-E will recreate it for you                |        |   https://chat.openai.com/g/g-DqViiXYrU-recreate-images-gpt   |
 | Target Audience Persona GPT | Define and describe your target audience segment                  |        | https://chat.openai.com/g/g-euZx5uhFM-target-audience-persona-gpt     |
